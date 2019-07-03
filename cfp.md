@@ -1,5 +1,5 @@
-# Call for Papers - Systems for ML Workshop @ NeurIPS 2018
-We invite participation in the Systems for ML Workshop which will be held in conjunction with NeurIPS 2018 in on December 7, 2018 in Montreal. 
+# Call for Papers - Systems for ML Workshop @ SOSP 2019
+We invite participation in the Systems for ML Workshop which will be held in conjunction with SOSP 2019 in October, 2019 in Huntsville, Ontario. 
 
 ## Overview
 
@@ -18,12 +18,15 @@ We welcome high quality submissions in the broad area of large scale systems and
 
 Through invited talks as well as oral and poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of machine learning and system design.
 
-*This year, the Systems for ML workshop will be part of a two day workshop series on ML and Systems. In conjunction with this workshop, there will be a workshop on ML for Systems.
+<!-- *This year, the Systems for ML workshop will be part of a two day workshop series on ML and Systems. In conjunction with this workshop, there will be a workshop on ML for Systems.
 Work on machine learning for system design (e.g. learning for job scheduling, configuration tuning, database query optimization) is better suited for submission to that workshop.
-See their Call for Papers for more details.*
+See their Call for Papers for more details.* -->
 
 ## Submission Instructions
-We welcome two kinds of submissions, poster abstracts and short papers.
+
+Coming Soon
+
+<!-- We welcome two kinds of submissions, poster abstracts and short papers.
 
 
 __Poster Abstracts__
@@ -45,7 +48,7 @@ In addition, a small number of short papers will be selected for an oral present
 * Submission Deadline: October 19, 2018 11.59pm PST
 * Acceptance Notifications: November 9, 2018
 * Final File Upload: December 1, 2018
-* Workshop: December 7, 2018
+* Workshop: December 7, 2018 -->
 
 ## Contact Us
-Contact us at ai-systems-workshop-2017@googlegroups.com 
+Contact us at machine-learning-systems-workshop@googlegroups.com 
