@@ -8,7 +8,7 @@ A new area is emerging at the intersection of artificial intelligence, machine l
 
 This workshop will follow the successful model we have previously run with the ML Systems Workshops @ [NeurIPS](http://learningsys.org/nips18/) and [ICML](https://sites.google.com/site/mlsys2016/), and [SOSP](http://learningsys.org/sosp17/)
 
-## Call for Papers
+## Call for Posters
 
 We invite participation in the AI Systems Workshop which will be held in conjunction with SOSP 2019 in Huntsville, Ontario, Canada.
 
