@@ -18,6 +18,8 @@ We welcome high quality submissions in the broad area of large scale systems and
 
 Through invited talks as well as poster presentations by the participants, this workshop will showcase the latest advances in machine learning systems and address challenges at the intersection of machine learning and system design.
 
+*Dual submissions:* The workshop proceedings will be published on the workshop website, but are considered non-archival for the purposes of dual submissions. We welcome work that has already been published or is under submission to a conference, and publishing at the workshop should not preclude you from submitting to conferences in the future. However, please check any conference policies as well.
+
 <!-- *This year, the Systems for ML workshop will be part of a two day workshop series on ML and Systems. In conjunction with this workshop, there will be a workshop on ML for Systems.
 Work on machine learning for system design (e.g. learning for job scheduling, configuration tuning, database query optimization) is better suited for submission to that workshop.
 See their Call for Papers for more details.* -->
@@ -37,7 +39,7 @@ a poster at the workshop. However, submissions in this format will not be consid
 
 
 ## Important Dates
-* Submission Deadline: September 10, 2019 11.59pm PST
+* Submission Deadline: ~September 10~ September 13, 2019 11.59pm PST
 * Acceptance Notifications: September 25, 2019
 * Final File Upload: October 15, 2019
 * Workshop: October 27, 2019
