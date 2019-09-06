@@ -39,7 +39,7 @@ a poster at the workshop. However, submissions in this format will not be consid
 
 
 ## Important Dates
-* Submission Deadline: ~September 10~ September 13, 2019 11.59pm PST
+* Submission Deadline: ~~September 10~~ September 13, 2019 11.59pm PST
 * Acceptance Notifications: September 25, 2019
 * Final File Upload: October 15, 2019
 * Workshop: October 27, 2019
