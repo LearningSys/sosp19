@@ -1,5 +1,5 @@
 # Call for Posters - Systems for ML Workshop @ SOSP 2019
-We invite participation in the Systems for ML Workshop which will be held in conjunction with SOSP 2019 in October, 2019 in Huntsville, Ontario. 
+We invite participation in the Systems for ML Workshop which will be held in conjunction with SOSP 2019 on October 27, 2019 in Huntsville, Ontario. 
 
 ## Overview
 
