@@ -1,5 +1,7 @@
 # Schedule 
 
+7:30-8.45: Breakfast (Eclipse Dining Room - included)
+
 8:45-9:00: &nbsp;&nbsp;&nbsp; Opening Remarks
 
 ### Session 1: Invited Talks
@@ -12,7 +14,7 @@
 ### Morning Poster Session
 10:00 - 10:30 &nbsp;&nbsp;&nbsp;    Poster Lightning Talks (1 minute each)
 
-10:30 - 11:30 &nbsp;&nbsp;&nbsp;    Break and Poster Session
+10:30 - 11:30 &nbsp;&nbsp;&nbsp;    Break and Poster Session (Ballroom/Hallway Rotunda)
 
 ---
 
@@ -27,7 +29,7 @@
 
 ---
 
-12:30 - 2:00 &nbsp;&nbsp;&nbsp;      Lunch
+12:30 - 2:00 &nbsp;&nbsp;&nbsp;      Lunch (Waterhouse Ballroom)
 
 ---
 
@@ -51,3 +53,4 @@
 ---
 
 5:00 - 5:15 Closing Remarks
+6:00 - 8:00 Dinner (Peninsula Room - included)
