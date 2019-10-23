@@ -3,9 +3,9 @@
 8:45-9:00: &nbsp;&nbsp;&nbsp; Opening Remarks
 
 ### Session 1: Invited Talks
-9:00 - 9:30 &nbsp;&nbsp;&nbsp;     What are the Unique Challenges and Opportunities in Systems and ML?, Matei Zaharia, Stanford University and Databricks
+9:00 - 9:30 &nbsp;&nbsp;&nbsp;     *What are the Unique Challenges and Opportunities in Systems and ML?*, Matei Zaharia, Stanford University and Databricks
 
-9:30 - 10:00 &nbsp;&nbsp;&nbsp;    A View of Programming Languages & Software Engineering for ML Software, Caroline Lemieux, UC Berkeley
+9:30 - 10:00 &nbsp;&nbsp;&nbsp;    *A View of Programming Languages & Software Engineering for ML Software*, Caroline Lemieux, UC Berkeley
 
 ---
 
@@ -27,14 +27,14 @@
 
 ---
 
-12:30 - 2:00 nbsp;&nbsp;&nbsp;      Lunch
+12:30 - 2:00 &nbsp;&nbsp;&nbsp;      Lunch
 
 ---
 
 ### Session 3: Invited Talks
-2:00 - 2:30 nbsp;&nbsp;&nbsp;     Asynchrony and Quantization for Efficient and Scalable Learning, Christopher De Sa, Cornell University
+2:00 - 2:30 &nbsp;&nbsp;&nbsp;     *Asynchrony and Quantization for Efficient and Scalable Learning*, Christopher De Sa, Cornell University
 
-2:30 - 3:00 nbsp;&nbsp;&nbsp;     Learning Based Coded-Computation: A Novel Approach for Resilient Computation in ML Inference Systems, Rashmi K. Vinayak, Carnegie Mellon University
+2:30 - 3:00 &nbsp;&nbsp;&nbsp;     *Learning Based Coded-Computation: A Novel Approach for Resilient Computation in ML Inference Systems*, Rashmi K. Vinayak, Carnegie Mellon University
 
 ---
 
@@ -44,9 +44,9 @@
 ---
 
 ### Session 4: Invited Talks
-4:00 - 4:30 &nbsp;&nbsp;&nbsp;    Building Scalable Systems for Reinforcement Learning and Using Reinforcement Learning for Better Systems, Yuandong Tian, Facebook
+4:00 - 4:30 &nbsp;&nbsp;&nbsp;    *Building Scalable Systems for Reinforcement Learning and Using Reinforcement Learning for Better Systems*, Yuandong Tian, Facebook
 
-4:30 - 5:00 &nbsp;&nbsp;&nbsp;    Challenges and Progress in Scaling ML Fairness, Alex Beutel, Google Brain
+4:30 - 5:00 &nbsp;&nbsp;&nbsp;    *Challenges and Progress in Scaling ML Fairness*, Alex Beutel, Google Brain
 
 ---
 
