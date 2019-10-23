@@ -42,7 +42,7 @@ a poster at the workshop. However, submissions in this format will not be consid
 * Submission Deadline: ~~September 10~~ September 13, 2019 11.59pm PST
 * Acceptance Notifications: October 3, 2019
 * Final File Upload: October 21, 2019
-* Workshop: October 27, 2019
+* Workshop: October 27, 2019 (the dimensions should be 3 feet by 4 feet in either orientation)
 
 ## Contact Us
 Contact us at machine-learning-systems-workshop@googlegroups.com 
