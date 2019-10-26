@@ -5,7 +5,7 @@
 8:45-9:00: &nbsp;&nbsp;&nbsp; Opening Remarks
 
 ### Session 1: Invited Talks
-9:00 - 9:30 &nbsp;&nbsp;&nbsp;     *What are the Unique Challenges and Opportunities in Systems and ML?*, Matei Zaharia, Stanford University and Databricks
+9:00 - 9:30 &nbsp;&nbsp;&nbsp;     *What are the Unique Challenges and Opportunities in Systems for ML?*, Matei Zaharia, Stanford University and Databricks
 
 9:30 - 10:00 &nbsp;&nbsp;&nbsp;    *A View of Programming Languages & Software Engineering for ML Software*, Caroline Lemieux, UC Berkeley
 
