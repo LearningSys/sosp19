@@ -19,13 +19,13 @@
 ---
 
 ### Session 2: Contributed Talks
-11:30 - 11:45 &nbsp;&nbsp;&nbsp;    Contributed Talk 1
+11:30 - 11:45 &nbsp;&nbsp;&nbsp;    Contributed Talk 1: Video Event Specification using Programmatic Composition
 
-11:45 - 12:00 &nbsp;&nbsp;&nbsp;    Contributed Talk 2
+11:45 - 12:00 &nbsp;&nbsp;&nbsp;    Contributed Talk 2: Adaptive Distributed Training of Deep Learning Models
 
-12:00 - 12:15 &nbsp;&nbsp;&nbsp;    Contributed Talk 3
+12:00 - 12:15 &nbsp;&nbsp;&nbsp;    Contributed Talk 3: Standardizing Evaluation of Neural Network Pruning
 
-12:15 - 12:30 &nbsp;&nbsp;&nbsp;    Contributed Talk 4
+12:15 - 12:30 &nbsp;&nbsp;&nbsp;    Contributed Talk 4: AliGraph: An Industrial Graph Neural Network Platform
 
 ---
 
