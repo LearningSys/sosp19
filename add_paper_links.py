@@ -17,9 +17,15 @@ assets_dir = "assets/papers"
 
 paper_files = os.listdir(assets_dir)
 
+# First, remove slashes
+for p in paper_files:
+    new_name = p.replace("\\", "_")
+    os.rename(os.path.join(assets_dir, p), os.path.join(assets_dir, new_name))
+
+
 
 def get_asset(paper_id):
-    asset = list(filter(lambda x: x.startswith(f"{paper_id}\\"), paper_files))
+    asset = list(filter(lambda x: x.startswith(f"{paper_id}_"), paper_files))
     assert len(asset) <= 1
     if len(asset) == 1:
         return os.path.join(assets_dir, asset[0])
